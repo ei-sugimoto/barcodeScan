@@ -147,7 +147,12 @@ function App() {
         </p>
       ))}
       <h1>Code128バーコード生成器</h1>
-      <button onClick={handleGenerate}>生成</button>
+      <button
+        onClick={handleGenerate}
+        style={{ width: "200px", height: "50px" }}
+      >
+        生成
+      </button>
       {barcodeValue &&
         barcodeValue.map((value, index) => {
           return (
