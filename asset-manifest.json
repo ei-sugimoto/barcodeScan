@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/barcodeScan/static/css/main.e6c13ad2.css",
+    "main.js": "/barcodeScan/static/js/main.767a09a3.js",
+    "static/js/453.fcb44b51.chunk.js": "/barcodeScan/static/js/453.fcb44b51.chunk.js",
+    "index.html": "/barcodeScan/index.html",
+    "main.e6c13ad2.css.map": "/barcodeScan/static/css/main.e6c13ad2.css.map",
+    "main.767a09a3.js.map": "/barcodeScan/static/js/main.767a09a3.js.map",
+    "453.fcb44b51.chunk.js.map": "/barcodeScan/static/js/453.fcb44b51.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.767a09a3.js"
+  ]
+}
