@@ -1,0 +1,12 @@
+services:
+  app:
+    image: node:20
+    volumes:
+      - .:/workspace
+    working_dir: /workspace
+    ports:
+      - "3000:3000"
+    tty: true
+    restart: always
+    expose:
+      - "3000"
